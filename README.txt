@@ -1,1 +1,1 @@
-c'est un fichier readme
+c'est un fichier readme.txt
